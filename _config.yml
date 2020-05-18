@@ -1,11 +1,11 @@
 # Site settings
 author: Jonathan Wong
-title: Blog Posts
+title: Becoming a Software Engineer
 header-img: img/home-bg.png
 email: jonathan.wong110@gmail.com
 copyright_name: Jonathan Wong
 description: > # this means to ignore newlines until "baseurl:"
-  Blog Information
+  My Journey of Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jonathanwong110
